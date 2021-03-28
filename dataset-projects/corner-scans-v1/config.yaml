@@ -1,0 +1,9 @@
+blender_exec_path: /home/ola/library/blender283/blender
+blender_scene: scene.blend
+blender_script: blender_script.py
+ground_truth_path: dataset/ground-truth
+stl_corners_path: dependencies/stl-corners
+stl_index: 499
+stl_path: dependencies/stl-corners/mesh499.stl
+train_filt_path: dataset/train-filt
+train_raw_path: dataset/train-raw

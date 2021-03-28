@@ -1,0 +1,8 @@
+blender_exec_path: path/to/blender/exec
+blender_script: blender/blender_script.py
+train_raw_path: dataset/train-raw
+train_filt_path: dataset/train-filt
+ground_truth_path: dataset/ground-truth
+stl_corners_path: dependencies/stl-corners
+stl_index: 0
+stl_path: dependencies/stl-corners/mesh000.stl

@@ -1,0 +1,11 @@
+blender_exec_path: /home/ola/library/blender283/blender
+blender_scene: scene.blend
+blender_script: blender_script.py
+ground_truth_path: dataset/ground-truth
+hdrs_path: dependencies/hdrs
+pbrs_path: dependencies/pbrs
+stl_corners_path: dependencies/stl-corners
+stl_index: 998
+stl_path: dependencies/stl-corners/mesh998.stl
+train_filt_path: dataset/train-filt
+train_raw_path: dataset/train-raw
