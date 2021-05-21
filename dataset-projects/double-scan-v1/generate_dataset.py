@@ -6,7 +6,7 @@ import time
 CONFIG_NAME = 'config.yaml'
 STL_PATH_CONFIG = 'stl_path'
 STL_INDEX_CONFIG = 'stl_index'
-NUM_IMAGES_TO_GENERATE = 999
+NUM_IMAGES_TO_GENERATE = 800
 
 def run_blender_background(blender_exec, blender_script):
     bl_command = [
